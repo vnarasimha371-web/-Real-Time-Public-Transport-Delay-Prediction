@@ -14,7 +14,7 @@ I trained and compared three different models to find the most accurate predicti
 ## 📈 Visualizations
 Below are the results from the project:
 
-![Model Comparison](model_comparison.png)
+![Model Comparison](Model_Comparison.png)
 *(The bar chart above compares the error rates of all three models.)*
 
 ![ARIMA Prediction](arima_prediction.png)
